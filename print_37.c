@@ -1,0 +1,12 @@
+#include "alx.h"
+
+/**
+ * print_37 - this prints the char %.
+ * Return: 1.
+ */
+
+int print_37(void)
+{
+	_putchar(37);
+	return (1);
+}
